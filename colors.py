@@ -2,20 +2,27 @@ import os
 
 os.system('cls' if os.name == 'nt' else 'clear')
 
+print("Blablabla")
+print("Blablabla")
+print("Blablabla")
+print("Blablabla")
+print("Blablabla")
+print("WARNING, there's a big danger!!")
+print("Blablabla")
+print("Blablabla")
+print("Blablabla")
+print("Blablabla")
 
-print("Boring normal text !")
+print("\033[91mWarning, this next potato is too hot\033[0m")
 
 
-# print("\033[91mWarning, this next potato is too hot\033[0m")
+print("\033[92mWell anyway, cats rule\033[0m")
 
 
-# print("\033[92mWell anyway, cats rule\033[0m")
+print("\033[93mI'm a banana\033[0m")
 
 
-# print("\033[93mI'm a banana\033[0m")
-
-
-# print("\033[94mI'm blue\033[0m da ba dee da ba daa")
+print("\033[94mI'm blue\033[0m da ba dee da ba daa")
 
 
 
