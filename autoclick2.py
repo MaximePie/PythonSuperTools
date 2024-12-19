@@ -1,10 +1,8 @@
-# This autoclick can click on a specific location on the screen
+# This autoclick can click with a toggle feature.
 # Make sure you can quit your script before running it
 from time import sleep
 import keyboard
 import pyautogui
-
-# TODO - Toggle 
 
 def click():
     pyautogui.click()
